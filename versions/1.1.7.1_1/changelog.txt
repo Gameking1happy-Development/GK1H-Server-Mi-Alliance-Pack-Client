@@ -1,4 +1,4 @@
-Moved GitHub repos to organization.  
+Moved GitHub repos to organization.\n
 Made mod list for client and server modpacks.  
 Possibly some more minor changes.  
 For authors of added mods, check "Mod List.md".
